@@ -52,6 +52,7 @@ header {
   color: #FFFFFF;
   background: #34547A;
   padding: 19px 41px;
+  border: none;
 }
 .about_me {
   display: flex;
